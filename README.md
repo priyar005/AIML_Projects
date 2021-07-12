@@ -1,4 +1,4 @@
-# AIML_Projects
+# AIML_academic_Projects
 Here are the academic projects that I have done in AIML
   - MovieLens Data Exploratory Data Analysis (Skills/Tools - Pandas, NumPy, Visualisation techniques, EDA)
   - Personal Loan Campaign Modelling (Skills/Tools - EDA, Data, Pre-processing,Logistic regression, finding optimal threshold using AUC-ROC curve, Decision trees, pruning)
